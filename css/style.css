@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Fredericka+the+Great|Overlock:400,400i,700,900&display=swap");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/btn-blue.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Overlock', cursive;
+	font-size: 20px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Fredericka the Great', cursive;
+	margin-bottom: -20px;
+}
+
+h2, {
+	font-family: 'Overlock', cursive;
+}
+
+a {
+	text-decoration: none;
+}
+
